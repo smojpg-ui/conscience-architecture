@@ -106,7 +106,3 @@ This work is shared under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses
 
 Sherry Moore
 [smo.jpg@gmail.com](mailto:smo.jpg@gmail.com)
-
----
-
-This version feels a lot stronger with education up front. It gives the whole framework a heartbeat before it heads into Mars, crisis zones, and silent comms.
