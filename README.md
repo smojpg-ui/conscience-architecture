@@ -1,7 +1,7 @@
 # Conscience Architecture & POTS
 **Emergent Behavioral Signal Convergence Across Disconnected Systems**
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/conscience-architecture)
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/smojpg-ui/conscience-architecture)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](LICENSE)
 [![Tier 1 Ready](https://img.shields.io/badge/Deployment-Tier%201%20Analog%20Ready-orange.svg)]()
 
