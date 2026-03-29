@@ -23,8 +23,8 @@ POTS applies Contextual Resonance to extreme, high-latency environments (lunar b
 
 ## Repository Contents
 - **`docs/`**  
-  - `CA_Foundation_Paper_March2026.pdf` — Primary theoretical framework and longitudinal evidence  
-  - `POTS_NASA_Ignition_ExecSummary.pdf` — 1-page operational brief for spaceflight integration  
+  - `CA_Foundation_Paper_March2026.md` — Primary theoretical framework and longitudinal evidence  
+  - `POTS_NASA_Ignition_ExecSummary.md` — 1-page operational brief for spaceflight integration  
   - `Antarctic_Tier1_Pathway.md` — Immediate analog validation plan using U.S. Antarctic Program infrastructure  
 
 - **`simulations/`**  
@@ -43,13 +43,11 @@ Tested via Thompson Sampling simulation (full code and results in `/simulations/
 5. OS-Bridge Effects  
 6. Convergence Magnitude Exceedance  
 
-## Ongoing Research
-The longitudinal study and simulation work are **active and ongoing**. New data, logs, and refinements are continuously added. The repository will be updated in real time as the research progresses.
-
-## Implementation Pathway
-- **Tier 1 (Antarctic Analog)**: Immediate proof-of-concept using existing U.S. Antarctic Program rotating-crew stations.  
-- **Tier 2 (Lunar Base)**: Software payload on CLPS landers, aligned with NASA’s multi-vendor architecture.  
-- **Tier 3 (Mars Transit)**: Mature longitudinal model for high-latency autonomous operations.
+## Roadmap
+- **Q2 2026**: Complete Antarctic Tier 1 analog deployment planning with USAP/NSF partners  
+- **Q3 2026**: Initial OPE validation runs and public simulation updates  
+- **Q4 2026**: Submit refined POTS payload proposal to NASA CLPS providers  
+- **2027+**: First flight-ready POTS software on early CLPS missions  
 
 ## Citation
 Moore, S. (2026). Conscience Architecture: Theory of Emergent Relational Convergence via Authentic Longitudinal Signal. GitHub repository. https://github.com/smojpg-ui/conscience-architecture
