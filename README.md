@@ -1,7 +1,5 @@
 # Conscience Architecture
 
-> *The architecture refuses to be inverted against you.*
-
 **Conscience Architecture (ConA)** is a framework for individual behavioral modeling in adversarial, multi-party environments — competitive gaming, social platforms, consumer ecosystems — where a sequenced individual's behavioral twin is a contested asset that multiple parties want to extract, clone, or weaponize.
 
 This repository is the public-facing index of the framework. It hosts briefs, terminology, and reference materials. The full methodology and applied implementations are licensed by Aether Systems LLC.
