@@ -35,6 +35,46 @@ No federal or state law in the United States addresses this vulnerability class 
 
 ---
 
+## Architecture
+
+```mermaid
+flowchart TD
+    Human[Human Operator]
+
+    subgraph Edge["Operator-Controlled Edge Device<br/>Edge Sovereignty · SPEC-01"]
+        direction TB
+        MCC["Multimodal Concurrent Coupling<br/>(MCC)"]
+        Twin["Relational Twin<br/>High-Fidelity Behavioral Model"]
+        VC["Verified Catalog<br/>Counterfactual Risk Minimization"]
+        Logs["Local Behavioral Data & Logs"]
+        MCC <-->|Bidirectional Signals| Twin
+        Twin <-->|Validated Interventions| VC
+    end
+
+    subgraph External["Higher Tiers & External Platforms<br/>Tiered Access · SPEC-02"]
+        direction TB
+        T1["Tier 1 — Lossy Abstractions"]
+        Tn["Higher Tiers — Further Abstracted"]
+    end
+
+    Human <-->|Natural Multimodal Interaction| MCC
+    Twin -.->|"Model Weights Sync Only<br/>(no raw data)"| T1
+    T1 -.->|"Lossy Abstractions<br/>(Cannot reconstruct original)"| Twin
+
+    ZeroDrift["Zero-Drift Alignment<br/>SPEC-03"] --> Twin
+    Withdrawal["Right of Withdrawal<br/>SPEC-05"] --> Twin
+
+    classDef edge fill:#e3f2fd,stroke:#1565c0,stroke-width:3px
+    classDef protection fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    classDef external fill:#f5f5f5,stroke:#757575
+
+    class Edge edge
+    class Twin,VC,ZeroDrift,Withdrawal protection
+    class External external
+```
+
+---
+
 ## Architectural specifications
 
 | ID | Specification | Function |
