@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Conscience Architecture: A Framework for Individual Behavioral Modeling in Adversarial Environments"
+message: "If you reference this framework in academic or applied work, please cite it as below."
+type: software
+authors:
+  - family-names: Moore
+    given-names: Sherry
+    orcid: "https://orcid.org/0009-0008-6375-0040"
+    affiliation: "Aether Systems LLC"
+    email: sherrymoore@aethersystems.io
+repository-code: "https://github.com/smojpg-ui/conscience-architecture"
+url: "https://aethersystems.io"
+abstract: >-
+  Conscience Architecture (ConA) is a framework for individual behavioral
+  modeling in adversarial, multi-party environments. It specifies the
+  architectural conditions — edge sovereignty, tiered access, zero-drift
+  alignment, the Verified Catalog principle, and the right of withdrawal —
+  under which a longitudinal behavioral model of a human operator (a
+  "Relational Twin") cannot be inverted, extracted, cloned, or weaponized
+  against the operator. ConA is the adversarial-environment companion to
+  Consciousness Architecture (CA), which addresses sealed, mission-aligned
+  environments such as long-duration spaceflight.
+keywords:
+  - behavioral modeling
+  - edge sovereignty
+  - relational twin
+  - adversarial AI
+  - player sovereignty
+  - esports
+  - extraction vulnerability
+  - behavioral policy transfer
+  - methodology
+license: "Proprietary - see LICENSE.md"
+date-released: "2026-04-22"
+version: "0.1.0"
